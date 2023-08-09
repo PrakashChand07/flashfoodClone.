@@ -1,6 +1,10 @@
 * {
   box-sizing: border-box;
 }
+html{
+  scroll-behavior: smooth;
+
+}
 body {
   margin: 0;
   padding: 0;
@@ -9,7 +13,6 @@ body {
   font-family: proxima-nova, sans-serif;
   font-size: 14px;
   line-height: 20px;
-  scroll-behavior: smooth;
 }
 
 header {
